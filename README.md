@@ -40,7 +40,7 @@ The goal of this project is to:
 
 ```bash
 git clone https://github.com/DHANASHRI1221/Simulation-of-Micro-Doppler-Signatures-Drone-Detection.git
-cd micro-doppler-drone-detection
+cd Simulation-of-Micro-Doppler-Signatures-Drone-Detection
 ```
 
 ### 2️⃣ Install Dependencies
