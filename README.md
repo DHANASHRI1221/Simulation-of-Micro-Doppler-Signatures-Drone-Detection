@@ -39,7 +39,7 @@ The goal of this project is to:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/micro-doppler-drone-detection.git
+git clone https://github.com/DHANASHRI1221/Simulation-of-Micro-Doppler-Signatures-Drone-Detection.git
 cd micro-doppler-drone-detection
 ```
 
